@@ -1,0 +1,310 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('https://images.pond5.com/computer-coding-background-footage-090890180_prevstill.jpeg');
+}
+
+header {
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #414646;
+    
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 50px;
+    color: rgb(8, 8, 8);
+    background-color: rgb(217, 214, 167);
+    padding: 5px 10px;
+    box-shadow: 0 0 8px black;
+
+}
+
+header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+  
+header div ul {
+
+    list-style-type: none;
+
+}
+
+header div li {
+    display: inline-block;
+    margin-right: 40px;
+}     
+
+.container {
+  position: relative;
+  text-align: left;
+  color: white;
+
+}
+
+ .background{
+ width: 100%;
+ height: 800px;
+
+ }
+
+
+.subtitle{
+    position: absolute;
+    font-size:50px;
+    top: 700px;
+    left: 900px;
+    color: rgb(28, 30, 30);
+    background-color: rgb(217, 214, 167);
+    padding: 5px 10px;
+    box-shadow: 0 0 5px black;
+}
+
+#about-me{
+    position: absolute;
+    width: 90%;
+    transform: translate(0, -50%);
+    top: 130%;
+
+}
+
+h3 {
+    writing-mode: vertical-lr;
+    display: inline;
+    background-color: rgb(217, 214, 167);  
+    font-size: 40px;
+    padding: 15px;
+    word-spacing: 2px;
+    letter-spacing: 1.2px;  
+    transform: rotate(180deg);
+    box-shadow: 0 0 5px black;
+    margin-top: 25px;
+
+}
+    
+p{
+    display: inline;
+    position: absolute;
+    top: 0px;
+    margin: 30px;
+    margin-left: 40px;
+    text-align: justify;
+    letter-spacing: 1px;
+    font-size: 25px;
+    color: rgb(18, 18, 18);
+    background-color: rgb(177, 192, 161);
+    padding: 15px 10px; 
+    box-shadow: 0 0 5px black;
+ 
+}
+
+#work {
+    position: absolute;
+    width: 90%;
+    transform: translate(0, -50%);
+    top: 190%;
+}
+
+h4 {
+    writing-mode: vertical-lr;
+    display: inline;
+    background-color: rgb(217, 214, 167);  
+    font-size: 40px;
+    padding: 15px;
+    word-spacing: 2px;
+    letter-spacing: 1.2px;  
+    transform: rotate(180deg);
+    box-shadow: 0 0 5px black;
+
+}
+
+#contact-me {
+    position: absolute;
+    width: 90%;
+    transform: translate(0, -50%);
+    top: 250%;
+}
+
+h5 {
+    writing-mode: vertical-lr;
+    display: inline;
+    background-color: rgb(217, 214, 167);  
+    font-size: 40px;
+    padding: 15px;
+    word-spacing: 2px;
+    letter-spacing: 1.2px;  
+    transform: rotate(180deg);
+    box-shadow: 0 0 5px black;
+
+}
+
+.button-group {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 5%;
+    display: flex;
+    flex-wrap: wrap;            
+    justify-content: space-between;
+    width: 100%;    
+
+}
+
+.button1{
+
+    width: 80%;
+    height: 300px;
+    opacity: 0.8;
+    padding: 0;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 10px;
+    margin-top: 280px;
+    margin-left: 140px;
+    border: 5px solid lightgoldenrodyellow;
+
+}
+
+.button1:hover{
+    background: rgb(190, 208, 163);
+}
+
+.portfolio{
+    width: 40%;
+    height: 150px;
+    margin-right: 17px;
+    margin-bottom: 10px;
+    border: 5px solid lightgoldenrodyellow;
+    opacity: 0.8;
+    padding: 0;
+   
+}
+
+.button2{
+
+    background-image: url('https://videohive.img.customer.envatousercontent.com/files/686c8cdf-ad72-42db-9d23-8ae857e63497/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=4f7bfbcc12546ca1e87a8cb4fe88f9fc');
+    width: 40%;
+    height: 150px;  
+    margin-left: 500px;
+    border: 5px solid lightgoldenrodyellow;
+    opacity: 0.8;
+    padding: 0;
+    margin-left: 120px;
+
+}
+
+.button2:hover{
+    background: rgb(190, 208, 163)
+}
+
+.button3{
+
+    background-image: url('https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1663889.jpg');
+    width: 40%;
+    height: 150px;  
+    margin-right: 81px;
+    border: 5px solid lightgoldenrodyellow;
+    opacity: 0.8;
+    padding: 0px;
+}
+
+.button3:hover{
+    background: rgb(190, 208, 163);
+}
+
+.button4{
+    background-image: url('https://devtechnosys.com/insights/wp-content/uploads/2022/12/Mern-Stack.png');
+    width: 40%;
+    height: 150px;  
+    margin-left: 120px;
+    border: 5px solid lightgoldenrodyellow;
+    opacity: 0.8;
+    padding: 0;
+}
+
+.button4:hover{
+    background: rgb(190, 208, 163);
+}
+
+.button5{
+
+    background-image: url('https://user-images.githubusercontent.com/77648727/107858055-eb266600-6de6-11eb-80a7-3dfeeaa5ec4b.png');
+    width: 40%;
+    height: 150px;  
+    margin-right: 81px;
+    border: 5px solid lightgoldenrodyellow;
+    opacity: 0.8;
+    padding: 0;
+
+}
+
+.button5:hover{
+    background: rgb(190, 208, 163);
+}
+
+.div1{
+
+    word-wrap: break-word;
+    background-color: lightgoldenrodyellow;
+    width: 100px;
+    height: 45px;
+    margin-bottom: 15px;
+
+}
+
+.div2{
+
+    word-wrap: break-word;
+    background-color: lightgoldenrodyellow;
+    width: 100px;
+    height: 45px;
+    margin-top: 60px;
+
+}
+
+.div3{
+
+    word-wrap: break-word;
+    background-color: lightgoldenrodyellow;
+    width: 100px;
+    height: 45px;
+    margin-top: 60px;
+}
+
+.div4{
+
+    word-wrap: break-word;
+    background-color: lightgoldenrodyellow;
+    width: 100px;
+    height: 45px;
+    margin-top: 60px;
+
+}
+
+.div5{
+
+    word-wrap: break-word;
+    background-color: lightgoldenrodyellow;
+    width: 100px;
+    height: 45px;
+    margin-top: 60px;
+
+}
+
+#email{
+    position: absolute;
+    font-size:30px;
+    top: 1950px;
+    left: 500px;
+    color: rgb(249, 241, 241);
+
+}
+   
+    
