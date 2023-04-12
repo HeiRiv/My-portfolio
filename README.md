@@ -20,7 +20,7 @@ On the second project we develop from scratch a website with our portfolio. A pr
  
 😄 Please see below a quick view of my website 😄 
 
-
+ <img width="1440" alt="Screen Shot 2023-04-12 at 3 42 01 PM" src="https://user-images.githubusercontent.com/128196586/231567350-2c7dc068-2558-4f5c-870e-d21fecc20cb7.png">
 
 - This is the link for the webpage to view on more detail: 
 
