@@ -2,7 +2,7 @@
 
 ## Description
 
-Learn something new can always be challenging however the satisfaction you feel at the end when using what you learn helps you to understand the meaning of hard work and presistance is everything, this website shows what learning a new skill can do for your businesses and how far you can go if you decide to push your limits a little further.
+On the second project we develop from scratch a website with our portfolio. A professional portfolio is a compilation of our work samples, our accomplishments and accreditations. It can serve as documentation or proof of our skills and abilities for futures references in a job, this project was really challenging but it was also fun trying the different concepts we have been larning on the bootcamp. 
 
 ## Achievements
 
@@ -20,16 +20,16 @@ Learn something new can always be challenging however the satisfaction you feel 
  
 😄 Please see below a quick view of my website 😄 
 
-<img width="406" alt="Screen Shot 2023-04-04 at 4 33 59 PM" src="https://user-images.githubusercontent.com/128196586/229914874-d10e5712-096b-440c-a43b-a9b531fdc102.png">
 
-- This is the link for the webpage to view on more detail: https://heiriv.github.io/Business-engagement-strategies1/#social-media-marketing
+
+- This is the link for the webpage to view on more detail: 
 
 ## Credits 
 
 Awesome documents used for better understanding to develop the challenge,
 
-- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://www.w3schools.com/cssref/css3_pr_flex-flow.php#:~:text=Definition%20and%20Usage,flex-wrap
 - https://www.w3schools.com/html/html_accessibility.asp
-- https://meiert.com/en/blog/dry-css/
+- https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
 
 ## ✔️ ✔️ ✔️
